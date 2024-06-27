@@ -13,6 +13,7 @@ async function main() {
 
   // The contract is now deployed, and you can log its address
   console.log(`CollateralizedLoan deployed successfully`);
+  console.log("Collateralized Loan contract deployed to:", contract.getAddress());
 }
 
 main()

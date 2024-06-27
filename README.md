@@ -1,5 +1,15 @@
-# Project: Collateralized Loan Smart Contract Development
 
+## Deployed Contract
+The smart contract has been deployed to the Sepolia test network. You can view and interact with the contract using the following details:
+
+**Contract Address**: `0xff9989d58510ccd4ed333bfbd25977f9eb8c0a74`
+
+**Network**: Sepolia Testnet
+
+**Etherscan Link**: [View on Etherscan](https://sepolia.etherscan.io/address/0xff9989d58510ccd4ed333bfbd25977f9eb8c0a74)
+
+
+# Project: Collateralized Loan Smart Contract Development
 In this project, you will develop, deploy, and interact with a simple collateralized loan contract on the Ethereum blockchain using Solidity. This contract will manage loans backed by Ethereum as collateral, offering hands-on experience with real-world financial smart contracts.
 
 ## Getting Started
